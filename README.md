@@ -1,7 +1,7 @@
 ### Olá 👋
 
 - 🔭 Atualmente trabalho com C#
-- 🌱 Estou aprendendo C# e Python
+- 🌱 Estou aprendendo Python e JavaScript
 
 <div align="center">
   <a href="https://github.com/gustavobuenodemoraes">
