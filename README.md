@@ -28,8 +28,12 @@ Desenvolvedor de Software focado no ecossistema **.NET / C#**, com experiência 
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gustavobuenodemoraes&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavobuenodemoraes&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Utilizadas" />
+  <img src="https://streak-stats.demolab.com/?user=gustavobuenodemoraes&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=gustavobuenodemoraes&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas Gerais" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=gustavobuenodemoraes&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Utilizadas" />
 </p>
 
 ---
@@ -37,9 +41,9 @@ Desenvolvedor de Software focado no ecossistema **.NET / C#**, com experiência 
 ### 🐍 Snake Game (Contribuições)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustavobuenodemoraes/gustavobuenodemoraes/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustavobuenodemoraes/gustavobuenodemoraes/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gustavobuenodemoraes/gustavobuenodemoraes/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustavobuenodemoraes/gustavobuenodemoraes/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustavobuenodemoraes/gustavobuenodemoraes/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gustavobuenodemoraes/gustavobuenodemoraes/output/github-snake.svg" width="100%">
 </picture>
 
 ---
